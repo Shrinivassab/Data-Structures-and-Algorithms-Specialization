@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6dc91a0c-52d4-4d65-b4bb-40fd7800da39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Get.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Insert.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Pop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Push.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Set.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Shift.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Unshift.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doubly-Linked-List/Doublly-Linked-List-Unshift.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Get.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Insert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Pop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Push.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Remove.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Reverse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Set.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Shift.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -23,62 +26,57 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Push.js">
+        <entry file="file://$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Push.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
-              <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+              <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Pop.js">
+        <entry file="file://$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Remove.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+            <state relative-caret-position="281">
+              <caret line="100" column="37" lean-forward="true" selection-end-line="170" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Shift.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="38" column="22" lean-forward="true" selection-end-line="64" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Unshift.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="62" column="34" lean-forward="true" selection-end-line="76" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Get.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="68" column="20" lean-forward="true" selection-end-line="89" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Set.js">
+        <entry file="file://$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Reverse.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="492">
-              <caret line="89" column="22" selection-start-line="89" selection-start-column="22" selection-end-line="89" selection-end-column="22" />
+              <caret line="140" column="1" lean-forward="true" selection-start-line="140" selection-start-column="1" selection-end-line="140" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Insert.js">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Reverse.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="184" column="20" selection-start-line="184" selection-start-column="20" selection-end-line="184" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Get.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="103" column="43" selection-start-line="103" selection-start-column="43" selection-end-line="103" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Doubly-Linked-List/Doublly-Linked-List-Unshift.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1896">
+              <caret line="79" column="9" lean-forward="true" selection-start-line="79" selection-start-column="9" selection-end-line="79" selection-end-column="9" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -120,15 +118,27 @@
         <option value="$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Pop.js" />
         <option value="$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Shift.js" />
         <option value="$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Unshift.js" />
-        <option value="$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Get.js" />
         <option value="$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Set.js" />
         <option value="$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Insert.js" />
+        <option value="$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Remove.js" />
+        <option value="$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Reverse.js" />
+        <option value="$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List.js" />
+        <option value="$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Push.js" />
+        <option value="$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Pop.js" />
+        <option value="$PROJECT_DIR$/Doubly-Linked-List/Doublly-Linked-List-Unshift.js" />
+        <option value="$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Get.js" />
+        <option value="$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Insert.js" />
+        <option value="$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Shift.js" />
+        <option value="$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Set.js" />
+        <option value="$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Get.js" />
+        <option value="$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Remove.js" />
+        <option value="$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Reverse.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1928" />
-    <option name="y" value="-8" />
+    <option name="x" value="-2113" />
+    <option name="y" value="142" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -137,6 +147,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -147,13 +158,17 @@
             <path>
               <item name="Data-Structures-and-Algorithms-Specialization" type="b2602c69:ProjectViewProjectNode" />
               <item name="Data-Structures-and-Algorithms-Specialization" type="462c0819:PsiDirectoryNode" />
+              <item name="Doubly-Linked-List" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Data-Structures-and-Algorithms-Specialization" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Data-Structures-and-Algorithms-Specialization" type="462c0819:PsiDirectoryNode" />
               <item name="Singly-Linked-Lists" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -172,6 +187,16 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Doubly-Linked-List-Push.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="Doubly-Linked-List-Push.js" working-dir="$PROJECT_DIR$/Doubly-Linked-List">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.Doubly-Linked-List-Push.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -198,28 +223,45 @@
       <workItem from="1559689186032" duration="107000" />
       <workItem from="1560004310610" duration="628000" />
       <workItem from="1560391819043" duration="339000" />
-      <workItem from="1560782991983" duration="6761000" />
+      <workItem from="1560782991983" duration="8508000" />
+      <workItem from="1560949603294" duration="22077000" />
     </task>
+    <task id="LOCAL-00001" summary="- Singly Linked List Concept&#10;- Push&#10;- Pop&#10;- Get&#10;- Insert(TODO)&#10;- Set&#10;- Shift&#10;- Unshift">
+      <created>1560791077486</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1560791077486</updated>
+    </task>
+    <task id="LOCAL-00002" summary="- Singly Linked List Concept&#10;- Insert&#10;- Remove&#10;- Reverse">
+      <created>1561072331570</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1561072331570</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27215000" />
+    <option name="totallyTimeSpent" value="51039000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17913593" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17913593" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32998884" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32998884" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32998884" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32998884" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -229,6 +271,11 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="- Singly Linked List Concept&#10;- Push&#10;- Pop&#10;- Get&#10;- Insert(TODO)&#10;- Set&#10;- Shift&#10;- Unshift" />
+    <MESSAGE value="- Singly Linked List Concept&#10;- Insert&#10;- Remove&#10;- Reverse" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Singly Linked List Concept&#10;- Insert&#10;- Remove&#10;- Reverse" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Optional-Challenges/Is-Subsequence.js">
@@ -318,13 +365,6 @@
     <entry file="file://$USER_HOME$/Downloads/Singly-Linked-List-Push.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Push.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Downloads/Singly-Linked-List-Pop.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-456">
@@ -332,43 +372,160 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Unshift.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1488">
+          <caret line="62" column="34" lean-forward="true" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Insert.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="97" column="9" lean-forward="true" selection-start-line="97" selection-start-column="9" selection-end-line="97" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Remove.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="110" column="48" lean-forward="true" selection-start-line="110" selection-start-column="48" selection-end-line="110" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Push.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Pop.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        <state relative-caret-position="-240">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Shift.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="38" column="22" lean-forward="true" selection-end-line="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Unshift.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="62" column="34" lean-forward="true" selection-end-line="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Get.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="68" column="20" lean-forward="true" selection-end-line="89" />
+        <state relative-caret-position="-277">
+          <caret line="29" column="32" lean-forward="true" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Set.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="89" column="22" selection-start-line="89" selection-start-column="22" selection-end-line="89" selection-end-column="22" />
+        <state relative-caret-position="11">
+          <caret line="74" column="46" lean-forward="true" selection-start-line="74" selection-start-column="46" selection-end-line="74" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Insert.js">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Insert.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="126" column="16" lean-forward="true" selection-end-line="148" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Get.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-48">
+          <caret line="69" column="5" lean-forward="true" selection-start-line="69" selection-start-column="5" selection-end-line="69" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Shift.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="61" column="9" lean-forward="true" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/DLL-Set.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1560">
+          <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Set.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-24">
+          <caret line="98" column="13" lean-forward="true" selection-start-line="98" selection-start-column="13" selection-end-line="98" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/DLL-Insert.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2268" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Push.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Pop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="41" column="34" lean-forward="true" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/DLL-Get.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="87" column="23" lean-forward="true" selection-start-line="87" selection-start-column="23" selection-end-line="87" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Doubly-Linked-List/Doublly-Linked-List-Unshift.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1896">
+          <caret line="79" column="9" lean-forward="true" selection-start-line="79" selection-start-column="9" selection-end-line="79" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Get.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="103" column="43" selection-start-line="103" selection-start-column="43" selection-end-line="103" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Remove.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="100" column="37" lean-forward="true" selection-end-line="170" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Reverse.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="140" column="1" lean-forward="true" selection-start-line="140" selection-start-column="1" selection-end-line="140" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Reverse.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="184" column="20" selection-start-line="184" selection-start-column="20" selection-end-line="184" selection-end-column="20" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

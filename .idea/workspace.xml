@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6dc91a0c-52d4-4d65-b4bb-40fd7800da39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Doubly-Linked-List/Doublly-Linked-List-Unshift.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Get.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Insert.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Pop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Push.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Remove.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Reverse.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Set.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Shift.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack-Queues/Queues.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack-Queues/Stack.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -24,57 +16,39 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Push.js">
+        <entry file="file://$PROJECT_DIR$/Stack-Queues/Stack.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Remove.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="100" column="37" lean-forward="true" selection-end-line="170" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Reverse.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="492">
-              <caret line="140" column="1" lean-forward="true" selection-start-line="140" selection-start-column="1" selection-end-line="140" selection-end-column="1" />
+            <state relative-caret-position="264">
+              <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Reverse.js">
+        <entry file="file://$PROJECT_DIR$/Stack-Queues/Queues.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="184" column="20" selection-start-line="184" selection-start-column="20" selection-end-line="184" selection-end-column="20" />
+            <state relative-caret-position="492">
+              <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Get.js">
+        <entry file="file://$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Shift.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="103" column="43" selection-start-line="103" selection-start-column="43" selection-end-line="103" selection-end-column="43" />
+            <state relative-caret-position="696">
+              <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Doubly-Linked-List/Doublly-Linked-List-Unshift.js">
+        <entry file="file://$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Unshift.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1896">
-              <caret line="79" column="9" lean-forward="true" selection-start-line="79" selection-start-column="9" selection-end-line="79" selection-end-column="9" />
+            <state relative-caret-position="1248">
+              <caret line="52" selection-start-line="52" selection-end-line="52" />
             </state>
           </provider>
         </entry>
@@ -133,12 +107,14 @@
         <option value="$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Get.js" />
         <option value="$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Remove.js" />
         <option value="$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Reverse.js" />
+        <option value="$PROJECT_DIR$/Stack-Queues/Stack.js" />
+        <option value="$PROJECT_DIR$/Stack-Queues/Queues.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-2113" />
-    <option name="y" value="142" />
+    <option name="x" value="-1928" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -147,7 +123,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -158,17 +133,13 @@
             <path>
               <item name="Data-Structures-and-Algorithms-Specialization" type="b2602c69:ProjectViewProjectNode" />
               <item name="Data-Structures-and-Algorithms-Specialization" type="462c0819:PsiDirectoryNode" />
-              <item name="Doubly-Linked-List" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Data-Structures-and-Algorithms-Specialization" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Data-Structures-and-Algorithms-Specialization" type="462c0819:PsiDirectoryNode" />
-              <item name="Singly-Linked-Lists" type="462c0819:PsiDirectoryNode" />
+              <item name="Stack-Queues" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -224,7 +195,8 @@
       <workItem from="1560004310610" duration="628000" />
       <workItem from="1560391819043" duration="339000" />
       <workItem from="1560782991983" duration="8508000" />
-      <workItem from="1560949603294" duration="22077000" />
+      <workItem from="1560949603294" duration="26129000" />
+      <workItem from="1561391494400" duration="1321000" />
     </task>
     <task id="LOCAL-00001" summary="- Singly Linked List Concept&#10;- Push&#10;- Pop&#10;- Get&#10;- Insert(TODO)&#10;- Set&#10;- Shift&#10;- Unshift">
       <created>1560791077486</created>
@@ -240,28 +212,34 @@
       <option name="project" value="LOCAL" />
       <updated>1561072331570</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Doubly Linked List&#10;- Completed all the operation&#10;- Push&#10;- Pop&#10;- Shift&#10;- Unshift&#10;- Get&#10;- Set&#10;- Insert&#10;- Remove&#10;- Reverse">
+      <created>1561152083403</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1561152083403</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51039000" />
+    <option name="totallyTimeSpent" value="56412000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17913593" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17913593" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32998884" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32998884" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32998884" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32998884" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32998884" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -275,7 +253,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="- Singly Linked List Concept&#10;- Push&#10;- Pop&#10;- Get&#10;- Insert(TODO)&#10;- Set&#10;- Shift&#10;- Unshift" />
     <MESSAGE value="- Singly Linked List Concept&#10;- Insert&#10;- Remove&#10;- Reverse" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Singly Linked List Concept&#10;- Insert&#10;- Remove&#10;- Reverse" />
+    <MESSAGE value="Doubly Linked List&#10;- Completed all the operation&#10;- Push&#10;- Pop&#10;- Shift&#10;- Unshift&#10;- Get&#10;- Set&#10;- Insert&#10;- Remove&#10;- Reverse" />
+    <option name="LAST_COMMIT_MESSAGE" value="Doubly Linked List&#10;- Completed all the operation&#10;- Push&#10;- Pop&#10;- Shift&#10;- Unshift&#10;- Get&#10;- Set&#10;- Insert&#10;- Remove&#10;- Reverse" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Optional-Challenges/Is-Subsequence.js">
@@ -372,13 +351,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Unshift.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1488">
-          <caret line="62" column="34" lean-forward="true" selection-end-line="76" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Insert.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
@@ -414,13 +386,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-240">
           <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Shift.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-277">
-          <caret line="29" column="32" lean-forward="true" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -520,10 +485,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="24">
+            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Reverse.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="184" column="20" selection-start-line="184" selection-start-column="20" selection-end-line="184" selection-end-column="20" />
+        <state relative-caret-position="4248">
+          <caret line="177" column="29" lean-forward="true" selection-start-line="177" selection-start-column="29" selection-end-line="177" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Shift.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Unshift.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1248">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stack-Queues/Stack.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stack-Queues/Queues.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
         </state>
       </provider>
     </entry>

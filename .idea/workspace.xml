@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6dc91a0c-52d4-4d65-b4bb-40fd7800da39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Stack-Queues/Queues.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack-Queues/Stack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary-Search-Tree/Binary-Search-Tree-Find.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary-Search-Tree/Binary-Search-Tree-Insert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary-Search-Tree/Binary-Search-Tree-Intro.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -26,11 +27,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Stack-Queues/Queues.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="492">
-              <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+            <state relative-caret-position="252">
+              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Binary-Search-Tree/Binary-Search-Tree-Intro.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="8" column="24" lean-forward="true" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Binary-Search-Tree/Binary-Search-Tree-Insert.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="22" column="37" lean-forward="true" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Binary-Search-Tree/Binary-Search-Tree-Find.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="444">
+              <caret line="60" column="29" selection-start-line="60" selection-start-column="29" selection-end-line="60" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -109,6 +137,10 @@
         <option value="$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Reverse.js" />
         <option value="$PROJECT_DIR$/Stack-Queues/Stack.js" />
         <option value="$PROJECT_DIR$/Stack-Queues/Queues.js" />
+        <option value="$PROJECT_DIR$/Binary-Search-Tree/Binary-Search-Tree-Intro.js" />
+        <option value="$PROJECT_DIR$/Binary-Search-Tree/Binary-Search-Tree-Insert.js" />
+        <option value="$PROJECT_DIR$/Binary-Search-Tree/Binary-Search-Tree-Search.js" />
+        <option value="$PROJECT_DIR$/Binary-Search-Tree/Binary-Search-Tree-Find.js" />
       </list>
     </option>
   </component>
@@ -133,7 +165,7 @@
             <path>
               <item name="Data-Structures-and-Algorithms-Specialization" type="b2602c69:ProjectViewProjectNode" />
               <item name="Data-Structures-and-Algorithms-Specialization" type="462c0819:PsiDirectoryNode" />
-              <item name="Stack-Queues" type="462c0819:PsiDirectoryNode" />
+              <item name="Binary-Search-Tree" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -196,7 +228,7 @@
       <workItem from="1560391819043" duration="339000" />
       <workItem from="1560782991983" duration="8508000" />
       <workItem from="1560949603294" duration="26129000" />
-      <workItem from="1561391494400" duration="1321000" />
+      <workItem from="1561391494400" duration="5493000" />
     </task>
     <task id="LOCAL-00001" summary="- Singly Linked List Concept&#10;- Push&#10;- Pop&#10;- Get&#10;- Insert(TODO)&#10;- Set&#10;- Shift&#10;- Unshift">
       <created>1560791077486</created>
@@ -219,11 +251,18 @@
       <option name="project" value="LOCAL" />
       <updated>1561152083403</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Stacks and Queues&#10;- Stack Implementation&#10;- Queues Implementation">
+      <created>1561400487027</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1561400487027</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56412000" />
+    <option name="totallyTimeSpent" value="60584000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
@@ -254,7 +293,8 @@
     <MESSAGE value="- Singly Linked List Concept&#10;- Push&#10;- Pop&#10;- Get&#10;- Insert(TODO)&#10;- Set&#10;- Shift&#10;- Unshift" />
     <MESSAGE value="- Singly Linked List Concept&#10;- Insert&#10;- Remove&#10;- Reverse" />
     <MESSAGE value="Doubly Linked List&#10;- Completed all the operation&#10;- Push&#10;- Pop&#10;- Shift&#10;- Unshift&#10;- Get&#10;- Set&#10;- Insert&#10;- Remove&#10;- Reverse" />
-    <option name="LAST_COMMIT_MESSAGE" value="Doubly Linked List&#10;- Completed all the operation&#10;- Push&#10;- Pop&#10;- Shift&#10;- Unshift&#10;- Get&#10;- Set&#10;- Insert&#10;- Remove&#10;- Reverse" />
+    <MESSAGE value="Stacks and Queues&#10;- Stack Implementation&#10;- Queues Implementation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Stacks and Queues&#10;- Stack Implementation&#10;- Queues Implementation" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Optional-Challenges/Is-Subsequence.js">
@@ -532,8 +572,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Stack-Queues/Queues.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+        <state relative-caret-position="252">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Binary-Search-Tree/Binary-Search-Tree-Intro.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="24" lean-forward="true" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Binary-Search-Tree/Binary-Search-Tree-Insert.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="22" column="37" lean-forward="true" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Binary-Search-Tree/Binary-Search-Tree-Find.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="60" column="29" selection-start-line="60" selection-start-column="29" selection-end-line="60" selection-end-column="29" />
         </state>
       </provider>
     </entry>

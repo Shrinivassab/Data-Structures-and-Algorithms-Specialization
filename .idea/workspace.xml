@@ -2,23 +2,62 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42ca04bc-6730-4515-b979-a4c5f10ee58d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Coding-Challenge/Easy/Array/Pascal-Triangle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Coding-Challenge/Medium/Array/Maximum-Product-SubArray.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Coding-Challenge/Medium/Stack/Reverse-Polish-Notation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Coding-Challenge/Medium/String/Check-Record-Student.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Coding-Challenge/Medium/String/Reverse-Word-In-A-String.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Coding-Challenge/Medium/Tree/Binary-Tree-PostOrder-Travesal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Coding-Challenge/Medium/Tree/Binary-Tree-Preorder-Traversal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph-Traversal/Graph-Traversal-BFS.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph-Traversal/Graph-Traversal-DFS-Iterative.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph-Traversal/Graph-Traversal-DFS-Recursive.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/Add-Edge.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/Graph-Add-Vertex.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/Remove-Edge.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/Remove-Vertex.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hash-Table/Basic-Hash.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sort/Insertion-Sort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coding-Challenge/Easy/LinkedList/Linked-List-Cycle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Dijkastra's-Algo/PriorityQueue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Dijkastra's-Algo/Weited-Graph.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary-Heaps/Max_Bimary_Heap_Insert.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Binary-Heaps/Max_Bimary_Heap_Insert.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary-Heaps/Max_Binary_Heap_Remove.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Binary-Heaps/Max_Binary_Heap_Remove.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary-Heaps/Priority_Heap.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Binary-Heaps/Priority_Heap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary-Search-Tree/Binary-Search-Tree-Find.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Binary-Search-Tree/Binary-Search-Tree-Find.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary-Search-Tree/Binary-Search-Tree-Insert.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Binary-Search-Tree/Binary-Search-Tree-Insert.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary-Search-Tree/Binary-Search-Tree-Intro.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Binary-Search-Tree/Binary-Search-Tree-Intro.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doubly-Linked-List/Doublly-Linked-List-Unshift.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Doubly-Linked-List/Doublly-Linked-List-Unshift.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Get.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Doubly-Linked-List/Doubly-Linked-List-Get.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Insert.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Doubly-Linked-List/Doubly-Linked-List-Insert.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Pop.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Doubly-Linked-List/Doubly-Linked-List-Pop.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Push.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Doubly-Linked-List/Doubly-Linked-List-Push.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Remove.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Doubly-Linked-List/Doubly-Linked-List-Remove.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Reverse.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Doubly-Linked-List/Doubly-Linked-List-Reverse.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Set.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Doubly-Linked-List/Doubly-Linked-List-Set.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Shift.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Doubly-Linked-List/Doubly-Linked-List-Shift.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Doubly-Linked-List/Doubly-Linked-List.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph-Traversal/Graph-Traversal-BFS.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Graph-Traversal/Graph-Traversal-BFS.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph-Traversal/Graph-Traversal-DFS-Iterative.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Graph-Traversal/Graph-Traversal-DFS-Iterative.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph-Traversal/Graph-Traversal-DFS-Recursive.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Graph-Traversal/Graph-Traversal-DFS-Recursive.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/Add-Edge.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Graph/Add-Edge.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/Graph-Add-Vertex.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Graph/Graph-Add-Vertex.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/Remove-Edge.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Graph/Remove-Edge.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/Remove-Vertex.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Graph/Remove-Vertex.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hash-Table/Basic-Hash.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Hash-Table/Basic-Hash.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Optional-Challenges/Are-There-Duplicates.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Optional-Challenges/Are-There-Duplicates.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Optional-Challenges/Average-Pair.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Optional-Challenges/Average-Pair.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Optional-Challenges/Frequency-Challenge.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Optional-Challenges/Frequency-Challenge.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Optional-Challenges/Is-Subsequence.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Optional-Challenges/Is-Subsequence.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Optional-Challenges/Max-SubArray.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Optional-Challenges/Max-SubArray.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/Factorial.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Recursion/Factorial.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/Fibonacci.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Recursion/Fibonacci.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/Helper-Function-Recursion.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Recursion/Helper-Function-Recursion.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/Product-Array.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Recursion/Product-Array.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/Pure-Recursion-Way.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Recursion/Pure-Recursion-Way.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/Recursive-Range.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Recursion/Recursive-Range.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/String-Reverse.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Recursion/String-Reverse.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Get.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Singly-Linked-Lists/Singly-Linked-List-Get.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Insert.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Singly-Linked-Lists/Singly-Linked-List-Insert.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Pop.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Singly-Linked-Lists/Singly-Linked-List-Pop.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Push.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Singly-Linked-Lists/Singly-Linked-List-Push.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Remove.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Singly-Linked-Lists/Singly-Linked-List-Remove.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Reverse.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Singly-Linked-Lists/Singly-Linked-List-Reverse.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Set.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Singly-Linked-Lists/Singly-Linked-List-Set.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Shift.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Singly-Linked-Lists/Singly-Linked-List-Shift.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Unshift.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Singly-Linked-Lists/Singly-Linked-List-Unshift.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sort/Insertion-Sort.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Sort/Insertion-Sort.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack-Queues/Queues.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Stack-Queues/Queues.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack-Queues/Stack.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Stack-Queues/Stack.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree Traversal/Breadth-First-Search.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Tree Traversal/Breadth-First-Search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree Traversal/DFSInOrder.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Tree Traversal/DFSInOrder.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree Traversal/DFSPostOrder.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Tree Traversal/DFSPostOrder.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree Traversal/DFSPreOrder.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Tree Traversal/DFSPreOrder.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,25 +70,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Coding-Challenge/Medium/Array/Maximum-Product-SubArray.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Stack-Queues/Stack.js">
+        <entry file="file://$PROJECT_DIR$/Coding-Challenge/Easy/LinkedList/Linked-List-Cycle.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="768">
-              <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Downloads/binary-search.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="23" column="47" lean-forward="true" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+            <state relative-caret-position="429">
+              <caret line="35" column="30" lean-forward="true" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -74,10 +102,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Recursion/Factorial.js" />
-        <option value="$PROJECT_DIR$/Recursion/Product-Array.js" />
-        <option value="$PROJECT_DIR$/Recursion/Recursive-Range.js" />
-        <option value="$PROJECT_DIR$/Recursion/Fibonacci.js" />
         <option value="$PROJECT_DIR$/Recursion/Helper-Function-Recursion.js" />
         <option value="$PROJECT_DIR$/Recursion/String-Reverse.js" />
         <option value="$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List.js" />
@@ -125,14 +149,17 @@
         <option value="$PROJECT_DIR$/Coding-Challenge/Medium/Stack/Reverse-Polish-Notation.js" />
         <option value="$PROJECT_DIR$/Coding-Challenge/Medium/String/Reverse-Word-In-A-String.js" />
         <option value="$PROJECT_DIR$/Coding-Challenge/Medium/Array/Maximum-Product-SubArray.js" />
+        <option value="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Dijkastra's-Algo/WeightedGraph.js" />
+        <option value="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Dijkastra's-Algo/Weited-Graph.js" />
+        <option value="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Dijkastra's-Algo/PriorityQueue.js" />
+        <option value="$PROJECT_DIR$/Coding-Challenge/Easy/LinkedList/Linked-List-Cycle.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="870" />
-    <option name="y" value="56" />
+    <option name="x" value="953" />
     <option name="width" value="974" />
-    <option name="height" value="1040" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -150,7 +177,20 @@
             <path>
               <item name="Udemy-DS-Algo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="D:\Coding Examples\Udemy-DS-Algo" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="Stack-Queues" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Coding-Challenge" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Udemy-DS-Algo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="D:\Coding Examples\Udemy-DS-Algo" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Coding-Challenge" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Easy" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Udemy-DS-Algo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="D:\Coding Examples\Udemy-DS-Algo" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Coding-Challenge" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Easy" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="LinkedList" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -181,6 +221,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Coding Examples\Udemy-DS-Algo\Js-Algo-Ds-Udemy" />
       <recent name="D:\Coding Examples\Udemy-DS-Algo\Coding-Challenge\Medium" />
     </key>
   </component>
@@ -197,7 +238,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Doubly-Linked-List-Push.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="Doubly-Linked-List-Push.js" working-dir="$PROJECT_DIR$/Doubly-Linked-List">
+    <configuration name="Doubly-Linked-List-Push.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Doubly-Linked-List/Doubly-Linked-List-Push.js" working-dir="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Doubly-Linked-List">
       <method v="2" />
     </configuration>
     <recent_temporary>
@@ -237,7 +278,8 @@
       <workItem from="1561783615180" duration="5400000" />
       <workItem from="1561906748671" duration="4489000" />
       <workItem from="1562163946612" duration="13362000" />
-      <workItem from="1562331663982" duration="9426000" />
+      <workItem from="1562331663982" duration="13172000" />
+      <workItem from="1562512578562" duration="4776000" />
     </task>
     <task id="LOCAL-00001" summary="- Singly Linked List Concept&#10;- Push&#10;- Pop&#10;- Get&#10;- Insert(TODO)&#10;- Set&#10;- Shift&#10;- Unshift">
       <created>1560791077486</created>
@@ -267,11 +309,18 @@
       <option name="project" value="LOCAL" />
       <updated>1561400487027</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="- Coding Challenge from Leetcode&#10;- Algo and DS">
+      <created>1562381847743</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1562381847743</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92893000" />
+    <option name="totallyTimeSpent" value="101415000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -319,54 +368,19 @@
     <MESSAGE value="- Singly Linked List Concept&#10;- Insert&#10;- Remove&#10;- Reverse" />
     <MESSAGE value="Doubly Linked List&#10;- Completed all the operation&#10;- Push&#10;- Pop&#10;- Shift&#10;- Unshift&#10;- Get&#10;- Set&#10;- Insert&#10;- Remove&#10;- Reverse" />
     <MESSAGE value="Stacks and Queues&#10;- Stack Implementation&#10;- Queues Implementation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Stacks and Queues&#10;- Stack Implementation&#10;- Queues Implementation" />
+    <MESSAGE value="- Coding Challenge from Leetcode&#10;- Algo and DS" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Coding Challenge from Leetcode&#10;- Algo and DS" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Push.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Set.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11">
-          <caret line="74" column="46" lean-forward="true" selection-start-line="74" selection-start-column="46" selection-end-line="74" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Insert.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="126" column="16" lean-forward="true" selection-end-line="148" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Shift.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="61" column="9" lean-forward="true" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/DLL-Set.js" />
-    <entry file="file://$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Set.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-24">
-          <caret line="98" column="13" lean-forward="true" selection-start-line="98" selection-start-column="13" selection-end-line="98" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Downloads/DLL-Insert.js" />
-    <entry file="file://$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Push.js">
+    <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Doubly-Linked-List/Doubly-Linked-List-Push.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Pop.js">
+    <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Doubly-Linked-List/Doubly-Linked-List-Pop.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="41" column="34" lean-forward="true" selection-end-line="53" />
@@ -374,21 +388,21 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Downloads/DLL-Get.js" />
-    <entry file="file://$PROJECT_DIR$/Doubly-Linked-List/Doublly-Linked-List-Unshift.js">
+    <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Doubly-Linked-List/Doublly-Linked-List-Unshift.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1896">
           <caret line="79" column="9" lean-forward="true" selection-start-line="79" selection-start-column="9" selection-end-line="79" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Get.js">
+    <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Doubly-Linked-List/Doubly-Linked-List-Get.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="103" column="43" selection-start-line="103" selection-start-column="43" selection-end-line="103" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Remove.js">
+    <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Doubly-Linked-List/Doubly-Linked-List-Remove.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="281">
           <caret line="100" column="37" lean-forward="true" selection-end-line="170" />
@@ -405,7 +419,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Reverse.js">
+    <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Doubly-Linked-List/Doubly-Linked-List-Reverse.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4248">
           <caret line="177" column="29" lean-forward="true" selection-start-line="177" selection-start-column="29" selection-end-line="177" selection-end-column="29" />
@@ -419,35 +433,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Unshift.js">
+    <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Singly-Linked-Lists/Singly-Linked-List-Unshift.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1248">
           <caret line="52" selection-start-line="52" selection-end-line="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Stack-Queues/Queues.js">
+    <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Stack-Queues/Queues.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Binary-Search-Tree/Binary-Search-Tree-Find.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
-          <caret line="50" column="35" selection-start-line="50" selection-start-column="35" selection-end-line="50" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Binary-Search-Tree/Binary-Search-Tree-Intro.js">
+    <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Binary-Search-Tree/Binary-Search-Tree-Intro.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Binary-Search-Tree/Binary-Search-Tree-Insert.js">
+    <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Binary-Search-Tree/Binary-Search-Tree-Insert.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
           <caret line="22" column="37" lean-forward="true" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
@@ -461,28 +468,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Hash-Table/Basic-Hash.js">
+    <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Hash-Table/Basic-Hash.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Pop.js">
+    <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Singly-Linked-Lists/Singly-Linked-List-Pop.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Shift.js">
+    <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Singly-Linked-Lists/Singly-Linked-List-Shift.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="696">
           <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Optional-Challenges/Max-SubArray.js">
+    <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Optional-Challenges/Max-SubArray.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
@@ -499,14 +506,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tree Traversal/Breadth-First-Search.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tree Traversal/DFSInOrder.js">
+    <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Tree Traversal/DFSInOrder.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-572">
           <folding>
@@ -525,28 +525,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Insert.js">
+    <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Singly-Linked-Lists/Singly-Linked-List-Insert.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1824">
           <caret line="97" column="9" lean-forward="true" selection-start-line="97" selection-start-column="9" selection-end-line="97" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Reverse.js">
+    <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Singly-Linked-Lists/Singly-Linked-List-Reverse.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="423">
           <caret line="136" column="24" lean-forward="true" selection-start-line="136" selection-start-column="24" selection-end-line="136" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tree Traversal/DFSPreOrder.js">
+    <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Tree Traversal/DFSPreOrder.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1488">
           <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tree Traversal/DFSPostOrder.js">
+    <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Tree Traversal/DFSPostOrder.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2265" />
       </provider>
@@ -571,31 +571,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Graph/Add-Edge.js">
+    <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Graph/Add-Edge.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="183">
           <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Graph/Remove-Edge.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Graph/Graph-Add-Vertex.js">
+    <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Graph/Graph-Add-Vertex.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="11" column="19" lean-forward="true" selection-end-line="45" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Graph/Remove-Vertex.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="37" column="23" lean-forward="true" selection-end-line="45" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -606,38 +592,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sort/Insertion-Sort.js">
+    <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Sort/Insertion-Sort.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Get.js">
+    <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Singly-Linked-Lists/Singly-Linked-List-Get.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Graph-Traversal/Graph-Traversal-DFS-Recursive.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="48" column="38" selection-start-line="48" selection-start-column="38" selection-end-line="48" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Graph-Traversal/Graph-Traversal-DFS-Iterative.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="63" column="30" lean-forward="true" selection-end-line="92" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Graph-Traversal/Graph-Traversal-BFS.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="81" column="26" selection-start-line="81" selection-start-column="26" selection-end-line="81" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -671,10 +636,94 @@
     <entry file="file://$PROJECT_DIR$/Coding-Challenge/Medium/Array/Maximum-Product-SubArray.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Stack-Queues/Stack.js">
+    <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Stack-Queues/Stack.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="768">
           <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Graph-Traversal/Graph-Traversal-DFS-Recursive.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="48" column="38" selection-start-line="48" selection-start-column="38" selection-end-line="48" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Tree Traversal/Breadth-First-Search.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-984">
+          <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Graph-Traversal/Graph-Traversal-BFS.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1944">
+          <caret line="81" column="26" selection-start-line="81" selection-start-column="26" selection-end-line="81" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Binary-Search-Tree/Binary-Search-Tree-Find.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="50" column="35" selection-start-line="50" selection-start-column="35" selection-end-line="50" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Graph-Traversal/Graph-Traversal-DFS-Iterative.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="63" column="30" selection-start-line="63" selection-start-column="30" selection-end-line="63" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Binary-Heaps/Priority_Heap.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Dijkastra's-Algo/WeightedGraph.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Binary-Heaps/Max_Bimary_Heap_Insert.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Graph/Remove-Edge.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Graph/Remove-Vertex.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Dijkastra's-Algo/PriorityQueue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Dijkastra's-Algo/Weited-Graph.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coding-Challenge/Easy/LinkedList/Linked-List-Cycle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="35" column="30" lean-forward="true" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

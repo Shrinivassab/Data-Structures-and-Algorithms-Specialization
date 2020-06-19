@@ -2,12 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42ca04bc-6730-4515-b979-a4c5f10ee58d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Coding-Challenge/Medium/Linked-List/Remove-Nth-Node-From-End.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS-Coding-Challeneg/Minesweeper/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS-Coding-Challeneg/Minesweeper/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS-Coding-Challeneg/Minesweeper/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Sort/Optimized-Bubble.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Sort/Selection-Sort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS-Coding-Challeneg/Accordion/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS-Coding-Challeneg/Accordion/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS-Coding-Challeneg/Accordion/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS-Coding-Challeneg/Js-Text-input/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS-Coding-Challeneg/Js-Text-input/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS-Coding-Challeneg/Photo-Gallery/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS-Coding-Challeneg/Photo-Gallery/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS-Coding-Challeneg/Photo-Gallery/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS-Coding-Challeneg/Star-Rating/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS-Coding-Challeneg/Star-Rating/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS-Coding-Challeneg/Star-Rating/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS-Coding-Challeneg/Tic-Tac-Toe/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS-Coding-Challeneg/Tic-Tac-Toe/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS-Coding-Challeneg/Tic-Tac-Toe/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -22,87 +30,93 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Optional-Challenges/Frequency-Challenge.js">
+        <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Singly-Linked-Lists/Singly-Linked-List-Remove.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-190" />
+            <state relative-caret-position="1968">
+              <caret line="82" column="5" selection-start-line="82" selection-start-column="5" selection-end-line="82" selection-end-column="5" />
+            </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Optional-Challenges/Is-Subsequence.js">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Hash-Table/Basic-Hash.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+            <state relative-caret-position="216">
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Sort/Insertion-Sort.js">
+        <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Tree Traversal/DFSInOrder.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Concept/Reverse-Linked-List.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-70">
+            <state relative-caret-position="432">
+              <caret line="86" column="19" selection-start-line="86" selection-start-column="12" selection-end-line="86" selection-end-column="19" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
+                <element signature="n#!!block;n#insert#0;n#BinarySearchTree#0" />
+                <element signature="n#!!block;n#find#0;n#BinarySearchTree#0" />
+                <element signature="n#!!block;n#contains#0;n#BinarySearchTree#0" />
+                <element signature="n#!!block;n#BFS#0;n#BinarySearchTree#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Coding-Challenge/Flatten-Array.js">
+        <entry file="file://$PROJECT_DIR$/JS-Coding-Challeneg/Tic-Tac-Toe/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="408">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS-Coding-Challeneg/Minesweeper/index.html">
+        <entry file="file://$PROJECT_DIR$/JS-Coding-Challeneg/Star-Rating/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+            <state relative-caret-position="96">
+              <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="5" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JS-Coding-Challeneg/Tic-Tac-Toe/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JS-Coding-Challeneg/Accordion/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JS-Coding-Challeneg/Minesweeper/style.css">
+        <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Stack-Queues/Queues.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JS-Coding-Challeneg/Accordion/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+            <state relative-caret-position="360">
+              <caret line="15" column="75" lean-forward="true" selection-start-line="15" selection-start-column="75" selection-end-line="15" selection-end-column="75" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS-Coding-Challeneg/Minesweeper/main.js">
+        <entry file="file://$PROJECT_DIR$/JS-Coding-Challeneg/Tic-Tac-Toe/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2400">
-              <caret line="100" column="9" lean-forward="true" selection-start-line="100" selection-start-column="9" selection-end-line="100" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Binary-Search-Tree/Binary-Search-Tree-Find.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+            <state relative-caret-position="120">
+              <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -118,6 +132,16 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>EMPTY</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>nSize</replace>
+      <replace>empty</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -129,23 +153,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$USER_HOME$/Downloads/Singly-Linked-List-Pop.js" />
-        <option value="$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Pop.js" />
-        <option value="$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Shift.js" />
-        <option value="$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Unshift.js" />
-        <option value="$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Set.js" />
-        <option value="$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Insert.js" />
-        <option value="$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Remove.js" />
-        <option value="$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Reverse.js" />
-        <option value="$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List.js" />
-        <option value="$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Push.js" />
-        <option value="$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Pop.js" />
-        <option value="$PROJECT_DIR$/Doubly-Linked-List/Doublly-Linked-List-Unshift.js" />
-        <option value="$PROJECT_DIR$/Singly-Linked-Lists/Singly-Linked-List-Get.js" />
-        <option value="$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Insert.js" />
-        <option value="$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Shift.js" />
-        <option value="$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Set.js" />
-        <option value="$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Get.js" />
         <option value="$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Remove.js" />
         <option value="$PROJECT_DIR$/Doubly-Linked-List/Doubly-Linked-List-Reverse.js" />
         <option value="$PROJECT_DIR$/Stack-Queues/Stack.js" />
@@ -180,11 +187,28 @@
         <option value="$PROJECT_DIR$/JS-Coding-Challeneg/Minesweeper/index.html" />
         <option value="$PROJECT_DIR$/JS-Coding-Challeneg/Minesweeper/style.css" />
         <option value="$PROJECT_DIR$/JS-Coding-Challeneg/Minesweeper/main.js" />
+        <option value="$PROJECT_DIR$/JS-Coding-Challeneg/Js-Text-input/index.html" />
+        <option value="$PROJECT_DIR$/JS-Coding-Challeneg/Js-Text-input/main.js" />
+        <option value="$PROJECT_DIR$/JS-Coding-Challeneg/Accordion/main.js" />
+        <option value="$PROJECT_DIR$/JS-Coding-Challeneg/Accordion/index.html" />
+        <option value="$PROJECT_DIR$/JS-Coding-Challeneg/Accordion/style.css" />
+        <option value="$PROJECT_DIR$/JS-Coding-Challeneg/Photo-Gallary/style.css" />
+        <option value="$PROJECT_DIR$/JS-Coding-Challeneg/Photo-Gallary/main.js" />
+        <option value="$PROJECT_DIR$/JS-Coding-Challeneg/Photo-Gallary/index.html" />
+        <option value="$PROJECT_DIR$/JS-Coding-Challeneg/Photo-Gallery/index.html" />
+        <option value="$PROJECT_DIR$/JS-Coding-Challeneg/Photo-Gallery/main.js" />
+        <option value="$PROJECT_DIR$/JS-Coding-Challeneg/Photo-Gallery/style.css" />
+        <option value="$PROJECT_DIR$/JS-Coding-Challeneg/Star-Rating/style.css" />
+        <option value="$PROJECT_DIR$/JS-Coding-Challeneg/Star-Rating/index.html" />
+        <option value="$PROJECT_DIR$/JS-Coding-Challeneg/Star-Rating/main.js" />
+        <option value="$PROJECT_DIR$/JS-Coding-Challeneg/Tic-Tac-Toe/index.html" />
+        <option value="$PROJECT_DIR$/JS-Coding-Challeneg/Tic-Tac-Toe/main.js" />
+        <option value="$PROJECT_DIR$/JS-Coding-Challeneg/Tic-Tac-Toe/style.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
+    <option name="x" value="952" />
     <option name="y" value="-8" />
     <option name="width" value="976" />
     <option name="height" value="1056" />
@@ -195,6 +219,34 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="Udemy-DS-Algo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="D:\Coding Examples\Udemy-DS-Algo" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="Udemy-DS-Algo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="D:\Coding Examples\Udemy-DS-Algo" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Js-Algo-Ds-Udemy" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Udemy-DS-Algo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="D:\Coding Examples\Udemy-DS-Algo" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Js-Algo-Ds-Udemy" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Sort" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Udemy-DS-Algo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="D:\Coding Examples\Udemy-DS-Algo" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Js-Algo-Ds-Udemy" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Stack-Queues" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -211,29 +263,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="Udemy-DS-Algo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="D:\Coding Examples\Udemy-DS-Algo" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-            <path>
-              <item name="Udemy-DS-Algo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="D:\Coding Examples\Udemy-DS-Algo" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="JS-Coding-Challeneg" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Angular-Complete Guide Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../NodeJS" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
@@ -257,12 +293,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.main.js">
     <configuration name="Doubly-Linked-List-Push.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Doubly-Linked-List/Doubly-Linked-List-Push.js" working-dir="$PROJECT_DIR$/Js-Algo-Ds-Udemy/Doubly-Linked-List">
+      <method v="2" />
+    </configuration>
+    <configuration name="main.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="main.js" working-dir="$PROJECT_DIR$/JS-Coding-Challeneg/Js-Text-input">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.main.js" />
         <item itemvalue="Node.js.Doubly-Linked-List-Push.js" />
       </list>
     </recent_temporary>
@@ -315,7 +355,14 @@
       <workItem from="1589227537630" duration="611000" />
       <workItem from="1589456555217" duration="599000" />
       <workItem from="1589472561116" duration="1863000" />
-      <workItem from="1589544697500" duration="9673000" />
+      <workItem from="1589544697500" duration="20992000" />
+      <workItem from="1589978474609" duration="6161000" />
+      <workItem from="1590165085190" duration="891000" />
+      <workItem from="1590698702071" duration="603000" />
+      <workItem from="1591325695459" duration="12000" />
+      <workItem from="1591365147523" duration="2047000" />
+      <workItem from="1591721450805" duration="1213000" />
+      <workItem from="1592515096942" duration="607000" />
     </task>
     <task id="LOCAL-00001" summary="- Singly Linked List Concept&#10;- Push&#10;- Pop&#10;- Get&#10;- Insert(TODO)&#10;- Set&#10;- Shift&#10;- Unshift">
       <created>1560791077486</created>
@@ -352,27 +399,34 @@
       <option name="project" value="LOCAL" />
       <updated>1562381847743</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="- Coding Challenge from Leetcode&#10;- Algo and DS">
+      <created>1589664572699</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1589664572699</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="140536000" />
+    <option name="totallyTimeSpent" value="163389000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15595363" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15542677" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23411371" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35021552" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.26309922" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.26309922" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32998884" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -408,122 +462,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="- Coding Challenge from Leetcode&#10;- Algo and DS" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Singly-Linked-Lists/Singly-Linked-List-Pop.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Singly-Linked-Lists/Singly-Linked-List-Shift.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="696">
-          <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Optional-Challenges/Max-SubArray.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Coding-Challenge/Easy/Array/Pascal-Triangle.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1392">
-          <caret line="58" column="10" selection-start-line="58" selection-start-column="10" selection-end-line="58" selection-end-column="10" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/graph-remove-edge.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Singly-Linked-Lists/Singly-Linked-List-Insert.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1824">
-          <caret line="97" column="9" lean-forward="true" selection-start-line="97" selection-start-column="9" selection-end-line="97" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Coding-Challenge/Medium/Tree/Binary-Tree-Preorder-Traversal.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="14" selection-start-line="14" selection-end-line="34" selection-end-column="16" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Coding-Challenge/Medium/Tree/Binary-Tree-PostOrder-Travesal.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Graph/Add-Edge.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Graph/Graph-Add-Vertex.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="19" lean-forward="true" selection-end-line="45" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/insertion-sort.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Coding-Challenge/Medium/Stack/Reverse-Polish-Notation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-123">
-          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Coding-Challenge/Medium/String/Reverse-Word-In-A-String.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="32" lean-forward="true" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/binary-search.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="23" column="47" lean-forward="true" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Coding-Challenge/Medium/Array/Maximum-Product-SubArray.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Graph-Traversal/Graph-Traversal-DFS-Recursive.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="423">
@@ -574,13 +512,6 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Singly-Linked-Lists/Singly-Linked-List-Remove.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1968">
-          <caret line="82" column="5" lean-forward="true" selection-start-line="82" selection-start-column="5" selection-end-line="82" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -638,18 +569,6 @@
     <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Tree Traversal/DFSPostOrder.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Tree Traversal/DFSInOrder.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!block;n#insert#0;n#BinarySearchTree#0" />
-            <element signature="n#!!block;n#find#0;n#BinarySearchTree#0" />
-            <element signature="n#!!block;n#contains#0;n#BinarySearchTree#0" />
-            <element signature="n#!!block;n#BFS#0;n#BinarySearchTree#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Binary-Heaps/Max_Bimary_Heap_Insert.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -706,13 +625,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Hash-Table/Basic-Hash.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Sort/Insertion-Sort.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -736,10 +648,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JS-Coding-Challeneg/Minesweeper/index.html">
+    <entry file="file://$PROJECT_DIR$/JS-Coding-Challeneg/Minesweeper/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        <state relative-caret-position="384">
+          <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -750,12 +662,140 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JS-Coding-Challeneg/Minesweeper/style.css">
+    <entry file="file://$PROJECT_DIR$/JS-Coding-Challeneg/Js-Text-input/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        <state>
+          <caret column="25" selection-start-column="17" selection-end-column="25" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Coding-Challeneg/Js-Text-input/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Coding-Challeneg/Accordion/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Coding-Challeneg/Photo-Gallery/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="38" column="1" lean-forward="true" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Coding-Challeneg/Photo-Gallery/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Coding-Challeneg/Star-Rating/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="23" column="20" lean-forward="true" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Coding-Challeneg/Star-Rating/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Coding-Challeneg/Minesweeper/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="5" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Coding-Challeneg/Photo-Gallery/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Singly-Linked-Lists/Singly-Linked-List-Remove.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1968">
+          <caret line="82" column="5" selection-start-line="82" selection-start-column="5" selection-end-line="82" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Hash-Table/Basic-Hash.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Tree Traversal/DFSInOrder.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="86" column="19" selection-start-line="86" selection-start-column="12" selection-end-line="86" selection-end-column="19" />
+          <folding>
+            <element signature="n#!!block;n#insert#0;n#BinarySearchTree#0" />
+            <element signature="n#!!block;n#find#0;n#BinarySearchTree#0" />
+            <element signature="n#!!block;n#contains#0;n#BinarySearchTree#0" />
+            <element signature="n#!!block;n#BFS#0;n#BinarySearchTree#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Coding-Challeneg/Tic-Tac-Toe/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Coding-Challeneg/Star-Rating/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="5" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Coding-Challeneg/Tic-Tac-Toe/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Coding-Challeneg/Accordion/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Coding-Challeneg/Accordion/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="75" lean-forward="true" selection-start-line="15" selection-start-column="75" selection-end-line="15" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Coding-Challeneg/Tic-Tac-Toe/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Js-Algo-Ds-Udemy/Stack-Queues/Queues.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

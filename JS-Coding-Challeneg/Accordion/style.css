@@ -1,0 +1,17 @@
+.accordion-header {
+    cursor: pointer;
+}
+
+.accordion-panel {
+    border: 1px dashed black;
+    margin: 2px;
+    padding: 5px;
+}
+
+.accordion-panel > .accordion-body {
+    display: none;
+}
+
+.accordion-panel.accordion-expanded > .accordion-body {
+    display: block;
+}

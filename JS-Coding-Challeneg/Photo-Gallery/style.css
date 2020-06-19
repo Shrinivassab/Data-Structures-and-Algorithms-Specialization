@@ -1,0 +1,49 @@
+body { font-family: sans-serif; }
+
+.photo-list {
+    padding-left: 0;
+}
+.photo-list a {
+    color: #59aec7;
+}
+
+.photo-list li {
+    display: inline-block;
+    margin: 0 0.5em;
+}
+
+.photo-list {
+    padding: 0;
+    display: -webkit-box;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.photo-list li {
+    display: block;
+    margin: 0 -1px 5px 0;
+    text-decoration: none;
+    color: cornflowerblue;
+}
+
+.photo-list a {
+    text-decoration: none;
+    display: block;
+    padding: 10px;
+    border: 1px solid #DDD;
+    color: #08E;
+}
+
+.photo-list a:hover {
+    background: #EEE;
+}
+
+.gallery__image {
+    display: block;
+    height: 240px;
+}
+
+button {
+    font: inherit;
+    padding: 10px 20px;
+}

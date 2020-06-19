@@ -1,0 +1,29 @@
+.ratingContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.rating {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+}
+
+.star {
+    width: 50px;
+    height: 50px;
+    border: 1px gold solid;
+    margin: 4px;
+}
+
+.star:hover,
+.star:hover ~ .star {
+    background-color: gold;
+    cursor: pointer;
+}
+
+.selected {
+    background-color: gold;
+}

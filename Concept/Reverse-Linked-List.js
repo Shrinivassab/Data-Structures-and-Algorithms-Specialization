@@ -9,7 +9,7 @@ Therefore it is the head of our new reversed list.*/
 // O(n) time & O(1) space
 function reverse(head) {
     let node = head,
-        previous,
+        previous = null,
         tmp;
 
     while (node) {
